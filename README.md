@@ -27,6 +27,3 @@ Plans include incorporating more distraction detection methods, like using a web
 ### Citations
 Inspired by the Forest App, with resources used for deer drawings, fire greenscreen effects, and background music from various web sources.
 
----
-
-This README provides a comprehensive overview of the Deer Timer project, its inspiration, functionalities, and the technologies used. It aligns with the project's focus on aiding students in maintaining focus during study sessions.
